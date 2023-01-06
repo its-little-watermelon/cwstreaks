@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cwstreaks/static/css/main.6a25069d.css",
+    "main.js": "/cwstreaks/static/js/main.09bd5b02.js",
+    "index.html": "/cwstreaks/index.html",
+    "main.6a25069d.css.map": "/cwstreaks/static/css/main.6a25069d.css.map",
+    "main.09bd5b02.js.map": "/cwstreaks/static/js/main.09bd5b02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a25069d.css",
+    "static/js/main.09bd5b02.js"
+  ]
+}
