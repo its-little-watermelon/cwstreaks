@@ -7,13 +7,13 @@ It was built using **React** (with **TypeScript**) and **Tailwind**.
 ## [DEMO](https://its-little-watermelon.github.io/cwstreaks/)
 
 <p align="center">
-    <img src="images/cws1.png" width="600" alt="screenshot" >
+    <img src="images/cws1.PNG" width="600" alt="screenshot" >
 </p>
 
 First, you enter your [CodeWars](https://www.codewars.com/) username. After all the data is fetched, you will see a table similar to this one:
 
 <p align="center">
-    <img src="images/cws2.png" width="600" alt="screenshot" >
+    <img src="images/cws2.PNG" width="600" alt="screenshot" >
 </p>
 
 The colored squares represent the days during which you solved at least one new challenge.
